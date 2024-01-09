@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+jupyter_data_analytics
 
 # C extensions
 *.so
